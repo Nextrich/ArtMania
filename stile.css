@@ -1,0 +1,94 @@
+.head img{
+ width: 100%;
+}
+h4, p{
+	text-align: center;
+}
+.primer img{
+ width: 800px;
+}
+div{
+	text-align: center;
+	display: inline block;
+
+}
+.zapis{
+		/*text-align: center;*/
+}
+h3{
+	text-align: center;
+}
+.af img{
+	/*border: 4px black solid;*/
+    width: 30%
+}
+body{
+	background-color: #FFD700;
+}
+.whatsapp{
+	color: #FF1493;
+		border-radius: 7%;
+	padding: 25px;
+		border:green solid 2px;
+	text-decoration: none;
+	background-color: green;
+	color: white;
+}
+.kurs img{
+    border-radius: 15%; 
+    width: 250px;
+
+}
+a{
+	color: #FF1493; 
+}
+.as{
+	background-color:#FFD700;
+	color: red;
+
+}
+.button{
+	margin-top: 40px;
+}
+.content{
+	padding: 20px 0;
+	max-width: 1000px;
+	margin: 0 auto;
+}
+.tabs{
+    margin: 0 0 10px 0;
+}
+.tabs__items{
+    display: flex;
+}
+.tabs__item{
+    flex: 0 1 99.999%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-transform: uppercase;
+    color: red;
+    text-decoration: none;
+}
+.boddy{
+
+}
+.block{
+padding: 20px;
+font-size: 18px;
+line-height: 24px;
+display: none;
+}
+.block:nth-child(1){
+
+}
+.block:target{
+	display: block;
+}
+li{
+	left: 1px;
+}
+button:hover{
+    background-color: red;
+    color: #FFD700;
+}
